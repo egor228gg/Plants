@@ -243,15 +243,15 @@ justify-content: space-between;
 
 }
 .service__text{
-    width: 306px;
-height: 94px;
+    width: 524px;
+height: 104px;
 
-size: 40px;
+size: 35px;
 font-weight: 400px;
 
 font-family: 'Inika';
 font-style: normal;
-font-weight: 40px;
+font-weight: 400px;
 font-size: 40px;
 line-height: 52px;
 
@@ -492,7 +492,7 @@ color: #000000;
 
 
 }
-.prices__container__text p{
+.prices__container__text h2{
     width: 135px;
     height: 49px;
     margin-left: 9px;
